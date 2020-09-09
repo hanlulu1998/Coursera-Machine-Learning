@@ -28,6 +28,25 @@
 
 在本练习中，您将实现一对一逻辑回归和神经网络来识别手写数字。
 
+### Programming Exercise 4:Neural Networks Learning
+
+在本练习中，您将实现神经网络的反向传播算法，并将其应用于手写数字识别任务。
+
+### Programming Exercise 5:Regularized Linear Regression and Bias v.s. Variance
+
+在本练习中，您将实现正则化线性回归，并使用它来研究具有不同偏差-方差属性的模型。
+
+### Programming Exercise 6:Support Vector Machines
+
+在本练习中，您将使用支持向量机(SVM)构建垃圾邮件分类器。
+
+### Programming Exercise 7:K-means Clustering and Principal Component Analysis
+在本练习中，您将实现K-Means聚类算法并将其应用于压缩图像。
+
+### Programming Exercise 8:Anomaly Detection and Recommender Systems
+
+在本练习中，您将实现异常检测算法，并将其应用于检测网络上的故障服务器。
+
 ## Code说明
 
 每个项目中提供两种版本，分别是Matla/Octave版本和Python版本，原始的课程代码是Octave版本的，Python版本是我自己改写的，水平有限，多多包涵。
